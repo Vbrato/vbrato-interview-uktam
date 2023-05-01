@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.list-wrapper {
+  width: 200px;
+  height: 600px;
+  overflow-y: scroll;
+  border-radius: 10;
+  background-color: #ccc;
+  padding: 15px;
+}
+.list-item {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
